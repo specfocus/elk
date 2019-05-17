@@ -1,7 +1,7 @@
 # Elasticsearch, Logstash, Kibana (ELK) Docker image
 [ELK Docker](https://elk-docker.readthedocs.io/)
 
-![ELK Stack](https://github.com/specfocus/elk/blob/master/art/log-stack-full.png)
+![ELK Stack](https://github.com/specfocus/elk/blob/master/art/log-stack-full.png?raw=true)
 
 [![](https://images.microbadger.com/badges/image/sebp/elk.svg)](https://microbadger.com/images/sebp/elk "Get your own image badge on microbadger.com") [![Documentation Status](https://readthedocs.org/projects/elk-docker/badge/?version=latest)](http://elk-docker.readthedocs.io/?badge=latest)
 
