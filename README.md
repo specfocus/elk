@@ -1,5 +1,6 @@
 # Elasticsearch, Logstash, Kibana (ELK) Docker image
 [ELK Docker](https://elk-docker.readthedocs.io/)
+[With Haddoop](https://www.elastic.co/products/hadoop)
 
 ![ELK Stack](https://github.com/specfocus/elk/blob/master/art/log-stack-full.png?raw=true)
 
